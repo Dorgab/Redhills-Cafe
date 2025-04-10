@@ -3,21 +3,26 @@
 
 #navbar {
 
-
-
+border: #c1730e 4px solid;
+height: 40px;
+justify-content: center;
+display: flex;
+justify-content: space-between;
+align-items: center;
 
 
 
 }
 
-
-
+/* {} body Targets everything within the body ie text img p etc */
+/* p- Targets all paragraphs */
 
 
 
 
 body {
     font-family: 'source sans 3', Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 
@@ -33,7 +38,7 @@ p {
     color:#4d693a;
     
    
-    
+
     
     
     
@@ -47,6 +52,12 @@ background-color: #c4beb5;
 
 }
 
+.product-wrapper {
+
+    /* border: blue 2px solid; */
+    display: flex;
+    justify-content: space-between;
+}
 .product-img {
     width: 100%;
 }
@@ -54,6 +65,7 @@ background-color: #c4beb5;
 
 .product {
     width: 20%;
+/* border: red 2px solid; */
 }
 
 

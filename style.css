@@ -19,25 +19,35 @@ align-items: center;
 
 
 
-
 body {
     font-family: 'source sans 3', Arial, Helvetica, sans-serif;
     text-align: center;
+
+    font-size: larger;
+
+background-color: #c4beb5;
+
+
+
+
+
+
+    
 }
 
 
 p {
 
-
-
+    
+    
     color:#1b1e18;
     color:#2f332d;
     color:#c4beb5;
     color:#fffdfa;
     color:#c1730e;
-    color:#4d693a;
+    color:#2c5c0d;
     
-   
+
 
     
     
